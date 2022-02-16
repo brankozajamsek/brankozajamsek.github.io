@@ -9,6 +9,8 @@ modified: 2014-08-08T19:44:38.564948-04:00
 #   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
+![Profile](logo.jpg)
+
 I am a statistician currently working as a Junior Research Group Leader for
 Bayesian Statistics at the Cluster of Excellence SimTech, University of
 Stuttgart. I am interested in a wide range of research topics most of which
