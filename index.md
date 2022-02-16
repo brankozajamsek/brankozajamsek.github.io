@@ -9,7 +9,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 #   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-![image alt ><](logo.jpg)
+![logo](logo.jpg)
 
 I am a statistician currently working as a Junior Research Group Leader for
 Bayesian Statistics at the Cluster of Excellence SimTech, University of
