@@ -24,8 +24,20 @@ excerpt: "A list of my publications"
 * Duc Phuc Nguyen, Kristy Hansen, Branko Zajamsek and Peter Catcheside. (2020) [Evaluation of wind farm noise amplitude modulation synthesis quality](http://dx.doi.org/10.1016/j.apacoust.2020.107349). *Applied Acoustics*.  Volume 166.
 * Duc Phuc Nguyen, Kristy L. Hansen, Branko Zajamšek. (2020). [Human perception of wind farm vibration](http://dx.doi.org/10.1177/1461348419837115). *Journal of Low Frequency Noise, Vibration and Active Control*. 39(1):17-27.
 
+
+### 2019
+* Branko Zajamšek, Yendrew Yauwenas, Con J. Doolan, Kristy L. Hansen, Victoria Timchenko, John A. Reizes, Colin H. Hansen (2019). [Experimental and numerical investigation of blade-tower interaction noise](http://dx.doi.org/10.1016/j.jsv.2018.11.048). *Journal of Sound and Vibration*. 443:362-375
+* Kristy L. Hansen, Branko Zajamšek, Colin H. Hansen. (2019). [Investigation of a microphone height correction for long-range wind farm noise measurements](https://doi.org/10.1016/j.apacoust.2019.05.015). *Applied Acoustics*. 155:97-110
+* Kristy L. Hansen, Phuc Nguyen, Branko Zajamšek, Peter G. Catcheside, Colin H. Hansen. (2019). [Prevalence of wind farm amplitude modulation at long-range residential locations](https://doi.org/10.1016/j.jsv.2019.05.008). *Journal of Sound and Vibration*. 455:136-149.
+* Mahmoud A. Alamir, Kristy L. Hansen, Branko Zajamsek, Peter Catcheside. (2019). [Subjective responses to wind farm noise: a review of laboratory listening test methods](https://doi.org/10.1016/j.rser.2019.109317). *Renewable and Sustainable Energy Reviews*. 114
+
 ## Conference procedings 
 
 * K. Hansen, P. Nguyen, B. Lechat, B. Zajamsek, M. Alamir, G. Micic, P. Catcheside. (2020). [Comparison between perceptual responses to traffic noise and wind farm noise in a non-focused listening test](https://www.acoustics.asn.au/conference_proceedings/AAS2019/papers/p66.pdf). *Proceedings of the Annual Conference of the Australian Acoustical Society*. (Cape Schanck, Australia).
 * Mahmoud Alamir, Branko Zajamsek, Kristy Hansen. (2020). [Perceived sleep acceptability of broadband amplitude-modulated wind farm noise](https://www.ingentaconnect.com/contentone/ince/incecp/2020/00000261/00000004/art00021). Proceedings of InterNoise20. (Seoul, Korea). 
+* * Phuc D. Nguyen, Kristy L. Hansen, Branko Zajamsek. (2019). [Characterizing tonal amplitude modulation of wind farm noise](https://researchnow-admin.flinders.edu.au/ws/portalfiles/portal/20095773/p101.pdf). *Proceedings of the Australian Acoustical Society Annual Conference*. (Adelaide, Australia). 
+* Branko Zajamsek, Gorica Micic, Kristy Hansen, Peter Catcheside. (2019) [Finger pulse wave amplitude response during sleep to environmental noise](http://publications.rwth-aachen.de/record/769615). *Proceedings of the 23rd International Congress on Acoustics*. (Aachen, Germany).
+* Mahmoud A. Alamir, Peter Catcheside, Kristy Hansen, Branko Zajamsek, Gorica Micic. (2019). [Human response to wind farm noise compared to road traffic noise based on focused listening tests](https://researchnow-admin.flinders.edu.au/ws/portalfiles/portal/36254501/1552.pdf). *In proceedings of Inter Noise 2019*. (Madrid, Spain).
+* Kristy Hansen, Phuc Nguyen, Branko Zajamsek, Gorica Micic, Peter Catcheside. (2019). [Pilot study on perceived sleep acceptability of low-frequency, amplitude modulated tonal noise](http://publications.rwth-aachen.de/record/769610).*Proceedings of the 23rd International Congress on Acoustics*. (Aachen, Germany).
+* Duc Phuc Nguyen, Kristy Hansen, Branko Zajamsek, Gorica Micic, Peter Catcheside. (2019). [Wind farm infrasound detectability and its effects on the perception of wind farm noise amplitude modulation](https://www.acoustics.asn.au/conference_proceedings/AAS2019/papers/p80.pdf).*Proceedings of the Annual Conference of the Australian Acoustical Society*. (Cape Schanck, Australia).
 * 
