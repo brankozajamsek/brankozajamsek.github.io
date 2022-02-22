@@ -9,7 +9,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 #   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-![logo](/images/profile/logo2.png)
+![logo](/images/profile/logo3.png)
 
 I am an acousticians currently working as a research associate on characterising the effects of noise on sleep and environmental sleep. I am interested in a wide range of topics most of which involve signal analysis, acoustic measurements and application of Bayesian
 methods. See [here](../publications) for an overview of my scientific publications. You can also find me on
