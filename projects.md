@@ -7,7 +7,7 @@ title: ""
 
 We have been measuring a lot of environemtal noise
 
-![image alt ><](images/i1.png)
+![image alt ><](images/environmental_noise.png)
 
 
 # Noise localisation
