@@ -31,4 +31,5 @@ methods. See [here](../publications) for an overview of my scientific publicatio
 * *R* (statistical computing)
 * *Python*
 * *Matlab*
+* *Latex*
 * speaking Slovenian and English, and learning German and Italian for the fun of it
