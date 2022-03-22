@@ -39,9 +39,22 @@ excerpt: "A list of my publications"
 
 ### 2017
 
-* Branko Zajamšek, Con J. Doolan, Danielle J. Moreau, Jeoffrey Fischer, Zebb D. Prime (2017). [Experimental investigation of trailing edge noise from stationary and rotating airfoils](http://dx.doi.org/10.1121/1.4983295). *Journal of Acoustical Society of America*. 141(5):3291-3301
+* Branko Zajamšek, Con J. Doolan, Danielle J. Moreau, Jeoffrey Fischer, Zebb D. Prime (2017). [Experimental investigation of trailing edge noise from stationary and rotating airfoils](http://dx.doi.org/10.1016/j.jsv.2016.02.001). *Journal of Acoustical Society of America*. 141(5):3291-3301
+* Yendrew Yauwenas, Branko Zajamšek, John A. Reizes, Victoria Timchenko, Con J. Doolan (2017). [Numerical simulation of blade-passage noise](http://dx.doi.org/https://doi.org/10.1121/1.5003651). *Journal of Acoustical Society of America*. 142(3):1575-1586
 
+### 2016
 
+* Branko Zajamsek, Kristy Hansen, Con Doolan, Colin Hansen. (2016). [Characterisation of wind farm infrasound and low-frequency noise](https://doi.org/10.1121/1.5003651). *Journal of Sound and Vibration*. 370:176-190
+* Colin Hansen, Branko Zajamsek, Kristy Hansen. (2016). [Infrasound and Low-Frequency Noise from Wind Turbines.](https://doi.org/10.1007/978-3-662-48868-3_1) *Fluid-Structure-Sound Interactions and Control: Proceedings of the 3rd Symposium on Fluid-Structure_Sound Interactions and Control*. pages 3-16
+
+### 2015
+
+* Kristy Hansen, Colin Hansen, Branko Zajamsek. (2015). [Outdoor to indoor reduction of wind farm noise for rural residences](https://doi.org/10.1016/j.buildenv.2015.06.017). *Building Acoustics Journal*. 94(2):764-772
+
+### 2014
+
+* Branko Zajamšek, Danielle J. Moreau, Con J. Doolan. (2014). Characterising noise and annoyance in homes near a wind farm. *Acoustics Australia*. 42(1):14-19.
+* Kevin Dooley, Kristy Hansen, Branko Zajamsek (2014). Examination of the predictions versus measurements of an acoustic interaction model for spinning modes, and concurrent low frequency amplitude modulation acoustic signatures from a 3MW wind turbine. *Journal of the Acoustical Society of America*. 135.
 
 ## Conference procedings 
 
@@ -52,4 +65,15 @@ excerpt: "A list of my publications"
 * Mahmoud A. Alamir, Peter Catcheside, Kristy Hansen, Branko Zajamsek, Gorica Micic. (2019). [Human response to wind farm noise compared to road traffic noise based on focused listening tests](https://researchnow-admin.flinders.edu.au/ws/portalfiles/portal/36254501/1552.pdf). *In proceedings of Inter Noise 2019*. (Madrid, Spain).
 * Kristy Hansen, Phuc Nguyen, Branko Zajamsek, Gorica Micic, Peter Catcheside. (2019). [Pilot study on perceived sleep acceptability of low-frequency, amplitude modulated tonal noise](http://publications.rwth-aachen.de/record/769610).*Proceedings of the 23rd International Congress on Acoustics*. (Aachen, Germany).
 * Duc Phuc Nguyen, Kristy Hansen, Branko Zajamsek, Gorica Micic, Peter Catcheside. (2019). [Wind farm infrasound detectability and its effects on the perception of wind farm noise amplitude modulation](https://www.acoustics.asn.au/conference_proceedings/AAS2019/papers/p80.pdf).*Proceedings of the Annual Conference of the Australian Acoustical Society*. (Cape Schanck, Australia).
-* Mahmoud A. Alamir, Kristy L. Hansen, Branko Zajamsek (2018). [The effect of wind farm noise on human response: An analysis of listening test methodologies](https://researchnow-admin.flinders.edu.au/ws/portalfiles/portal/15689850/p103.pdf). Proceedings of Australian Acoustical Society Annual Conference. (Adelaide, Australia).
+* Mahmoud A. Alamir, Kristy L. Hansen, Branko Zajamsek (2018). [The effect of wind farm noise on human response: An analysis of listening test methodologies](https://researchnow-admin.flinders.edu.au/ws/portalfiles/portal/15689850/p103.pdf). *Proceedings of Australian Acoustical Society Annual Conference.* (Adelaide, Australia).
+* Branko Zajamsek, Kristy L. Hansen, Gorica Micic, Peter Catcheside, Colin H. Hansen. (2017). The assessment of hearing thresholds in the presence of infrasound. *Proceedings of 7th International Conference on Wind Turbine Noise.* (Rotterdam, Netherlands)
+* Kristy Hansen, Branko Zajamsek, Colin Hansen. (2017). The Occurrence of Nocturnal Wind Farm Rumbling Noise. *Proceedings of 7th International Conference on Wind Turbine Noise.* (Rotterdam, Netherlands).
+* Jeoffrey Fischer, Con J. Doolan, Branko Zajamšek. (2016). Aeroacoustic beamforming of a model wind-turbine in anechoic and reverberant environments. *Proceedings of 2nd Australasian Acoustical Societies Conference.*
+* Kristy Hansen, Branko Zajamsek, Colin Hansen. (2016). The influence of microphone height in the measurement of low frequency and infrasonic wind turbine noise at typical receivers. *Proceedings of International Congress on Sound and Vibration.*
+* Kristy Hansen, Bruce Walker, Branko Zajamsek, Colin Hansen. (2015). Perception and annoyance of low frequency noise versus infrasound in the context of wind turbine noise. *Proceedings of 6th International Conference on Wind Turbine Noise*. (Glasgow, United Kingdom).
+* Kristy Hansen, George Hessler, Branko Zajamsek, Colin Hansen. (2015). Prediction of infrasound and low frequency noise propagation for modern wind turbines: a proposed supplement to ISO 9613-2. *Proceedings of 6th International Conference on Wind Turbine Noise*. (Glasgow, United Kingdom).
+* Kristy L. Hansen, Branko Zajamšek, Colin H. Hansen. (2015) Quantifying the character of wind farm noise. *Proceedings of 22nd International Congress on Sound and Vibration (ICSV22). 
+* Zebb Prime, Con Doolan, Branko Zajamšek. (2014). Beamforming array optimisation and phase averaged sound source mapping on a model wind turbine. *Proceedings of 43rd International Congress on Noise Control Engineering: Improving the World Through Noise Control.* (Melbourne, Australia).
+* Kristy Hansen, Branko Zajamsek, Colin Hansen. (2014). Comparison of the noise levels measured in the vicinity of a wind farm for shutdown and operational conditions. *Proceedings of 43rd International Congress on Noise Control Engineering: Improving the World Through Noise Control.* (Melbourne, Australia).
+* B Zajamšek, C Doolan, Z Prime. (2014). Experimental measurements of rotating and stationary wind turbine rotor blade noise. *Proceedings of Event19th Australasian Fluid Mechanics Conference
+
