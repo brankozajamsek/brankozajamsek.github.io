@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-![fig1](images/BTI.pdf)
+![fig1](images/BTI-02.png)
 ![fig1](images/wf_world_distribution.jpg)
 ![fig1](images/spectra-12.png)
 
