@@ -3,6 +3,8 @@ layout: page
 title: ""
 ---
 
+![fig1](images/environmental_noise2.png)
+
 # Environmental noise measurements 
 
 We have been measuring a lot of environemtal noise
