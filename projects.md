@@ -3,6 +3,7 @@ layout: page
 title: ""
 ---
 
+![fig1](images/Outdoor_setup-01)
 ![fig1](images/BTI-02.png)
 ![fig1](images/wf_world_distribution.jpg)
 ![fig1](images/spectra-12.png)
