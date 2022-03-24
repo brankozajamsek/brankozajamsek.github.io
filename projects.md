@@ -2,7 +2,7 @@
 layout: page
 title: ""
 ---
-
+![fig1](images/bti.png)
 ![fig1](images/Outdoor_setup-01.png)
 ![fig1](images/BTI-02.png)
 ![fig1](images/wf_world_distribution.jpg)
